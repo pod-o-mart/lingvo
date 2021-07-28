@@ -1,0 +1,7 @@
+﻿Danske forkortelser
+
+ord: 805 / artikler: 733
+Konverteret til DSL format af Martin Podolak.
+DSL version 1.0: 2014/12/20
+Denne ordbog ligger under: http://podolak.net/en/studies/dictionary/lingvo
+Kilde: http://www.grafisk-litteratur.dk/?id=16
