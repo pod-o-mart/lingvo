@@ -1,5 +1,5 @@
 # lingvo
-Dictionaries for (Old) Church Slavonic, Old Russian, Slavonic linguistics.
+Dictionaries for (Old) Church Slavonic, Old Russian, Slavonic linguistics, Danish, German, Yiddish and Tigrinya.
 
 Find more information on the individual dictionaries in the corrsponding .ANN-files.
 
