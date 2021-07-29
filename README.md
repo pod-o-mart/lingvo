@@ -1,7 +1,7 @@
 # lingvo
 Dictionaries for (Old) Church Slavonic, Old Russian, Slavonic linguistics.
 
-Find more information on the individual dictionaries in the corrsponding TXT-files.
+Find more information on the individual dictionaries in the corrsponding .ANN-files.
 
 For use in [ABBYY Lingvo](http://www.abbyy.com/translation_dictionary/) (commercial) or [GoldenDict](http://goldendict.org/) (free).
 
