@@ -1,0 +1,21 @@
+Из народной сокровищницы - Сборник пословиц идиш / פֿון פֿאָלקס־אוצר ־ ייִדישע שפּריכװערטער
+(Yiddish-Russian Dictionary of Proverbs)
+Hebrew script / Latin transcription
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Титульный лист:
+אַלכּסנדר סאָלדאַטאָװ (איציק מאירס)
+פֿון פֿאָלקס־אוצר ־ שפּריכװערטער (ייִדיש, רוסיש)
+***
+Александр Солдатов (Ицик Мейерс)
+Из народной сокровищницы - Сборник пословиц (Идиш, русский)
+***
+1993 – 2005
+תשנ״ג – תשס״ה
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Source: http://www.jewniverse.ru/biher/Soldatov_Folk/
+Author: pod-o-mart
+Headwords/Definitions: 1646/806
+Version: 1.0 (31.08.2020)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Script:
+The Yiddish headwords are searchable in both Hebrew script and Latin transcription (pronounciation-oriented romanization, YIVO-like, see https://www.yiddishwit.com/transliteration.html). The original scientific transcription of the source has been converted to YIVO-style.

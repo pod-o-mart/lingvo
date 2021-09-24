@@ -1,0 +1,27 @@
+Немецко-русский словарь лингвистических терминов
+Linguistische Termini und ihr Umfeld (deutsch-russisch)
+zusammengestellt von Henriette Zimmer
+Gießen 1995
+
+Der Professur für Vergleichende Sprachwissenschaft der Justus-Liebig-Universität Gießen gewidmet
+
+Literatur:
+Nash, Rose: Multilingual Lexicon of Linguistics and Philology, Miami 1968.
+Günther, Kurt: Wörterbuch phraseologischer Termini, Oberlungwitz 1990.
+Seegatz, Wolfgang: Russische grammatische Terminologie, Tübingen 1976.
+Leping, E. I., Strachova, N. P. (Red.): Russko-nemeckij slovar', Moskva 1976.
+Leping, A. A., Strachova, N. P. (Red.): Nemecko-russkij slovar', Moskva 1976.
+Vasmer, Max: Etimologičeskij slovar' russkovo jazyka, I, Moskva 1986.
+
+Vorwort:
+Die Wörterliste ist bei Übersetzungsarbeiten an der Professur für Vergleichende Sprachwissenschaft der Justus-Liebig-Universität Gießen aus einer anfänglich kleinen Zusammenstellung selten gebräuchlicher Termini entstanden. Um den linguistischen Grundwortschatz ergänzt hat sie zum Ziel, auf einfachste Weise behilflich zu sein, einschlägige russischsprachige Veröffentlichungen in der Sprachwissenschaft verstärkt zu berücksichtigen.
+Sie basiert vor allem auf dem viersprachigen linguistisch-philologischen Wörterbuch von Rose Nash, dessen Gebrauch, außer für das Englische, allerdings noch erheblich zeitaufwendiger ist als das Nachschlagen in normalen Wörterbüchern. Aus Günther sind knapp 500 zumeist Fremdwörter übernommen. Seegatz hat 266 Stichwörter, die aber zum größten Teil bereits in Nash enthalten sind. Aus den beiden Wörterbüchern von Leping/Strachova stammen bei Bedeutungsüberprüfungen gemachte Zufallsfunde. Vasmer wurde für die Bezeichnung indogermanischer Sprachen herangezogen.
+Ziemlich gleichzeitig ist in Moskau 1993 das zweibändige dt./russ., russ./dt. linguistische Wörterbuch von A. N. Baranov und D. O. Dobrovol'skij (Nemecko-russkij i russko-nemeckij slovar' lingvističeskich terminov) erschienen. Ein Vergleich der ca. 5.500 Stichworte mit der ebenso großen Gießener Liste hat ergeben, daß lediglich ca. ein Drittel der Wörter identisch ist. Der gleichzeitige Gebrauch beider Übersetzungshilfen sei daher empfohlen.
+
+Copyright: Jost Gippert Frankfurt a/M 1997. No parts of this document may be republished in any form without prior permission by the copyright holder.
+
+Source: http://titus.uni-frankfurt.de/lexica/russterm.htm
+
+words: 7807 / articles: 5766
+Converted to DSL format by Martin Podolak.
+DSL version 1.2: 2016/03/23 - separated multiple comma-separated headwords to individual lines

@@ -1,0 +1,20 @@
+Старославянско-английский словарь
+Old Church Slavonic Dictionary
+University of Pittsburgh
+
+The OCS Dictionary is based on Oscar E. Swan’s Old Church Slavic Glossary (Oakland: Berkeley Slavic Specialties, 2008). As noted in the introduction to that work, it was compiled from glossaries by Diels, Lunt, Vaillant, and Whitfield, with most proper names and vocabulary to Codex Suprasliensis being drawn from Blagovoj.
+
+words: 11809 / articles: 9871
+Converted to DSL format by podomart.
+
+DSL-Version ― Changelog:
+1.0 / 2014/12/09 ―	Converted
+2.0 / 2015/01/16 ―	Completely new structured index, made searchable inflected forms, added inflections to articles on verbs, indexed adjectives with link to their substantives, added subarticles, cleaned from redundant entries, added abbreviation index, formatting
+2.1 / 2021/09/23 ―	Changed language to "Church Slavic" in order to fit into GoldenDict's list of languages.
+					Hereby enabled usage of Old Cyrillic font (please use the attached files "article-style.css" and "qt-style.css").
+
+Source: http://polish.slavic.pitt.edu/russian/
+Copyright (c) 2009, 2011 Oscar E. Swan, Nicholas H. Reimer.
+
+Download location of this and 9 other Church Slavic DSL dictionaries: https://doi.org/10.5281/zenodo.5165145
+For similar dictionaries, see: http://lingvodics.com/dics/view/Church-Slavic

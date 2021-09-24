@@ -1,0 +1,17 @@
+Древнерусско-английский глоссарий спрягаемых и склоняемых словоформ
+Old Russian Online - Master Glossary
+Jonathan Slocum and Todd B. Krause
+University of Texas
+
+words: 1249 / articles: 1249
+Converted to DSL format by podomart.
+
+DSL-Version ― Changelog:
+1.0 / 2014/12/09 ―	Created
+1.1 / 2021/09/23 ―	Changed language to "Church Slavic" in order to fit into GoldenDict's list of languages.
+					Hereby enabled usage of Old Cyrillic font (please use the attached files "article-style.css" and "qt-style.css").
+
+Source: http://www.utexas.edu/cola/centers/lrc/eieol/oruol-MG-X.html
+
+Download location of this DSL dictionary: https://doi.org/10.5281/zenodo.5165145
+For similar dictionaries, see: http://lingvodics.com/dics/view/Church-Slavic

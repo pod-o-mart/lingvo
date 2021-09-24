@@ -1,0 +1,31 @@
+/*==============================
+ * In order to use an Old Cyrillic font within the search box and the wordlist, place the current file "qt-style.css" into the GoldenDict folder:
+ * Linux:	~/.goldendict (seems not to work on every Linux installation)
+ * Windows:	%APPDATA%\GoldenDict
+ * The font will be retrieved from the internet, no font installation necessary.
+ * If you need the font also outside of GoldenDict, you need to work offline or in case of problems, install the font locally from:
+ * https://sci.ponomar.net/fonts.html#fonts-for-academic-work (Monomakh Unicode font)
+ * Source of the file "qt-style.css": https://doi.org/10.5281/zenodo.5165145
+==============================*/
+
+/* Defines the Old Cyrillic font "Monomakh": */
+@font-face {
+	font-family: 'Monomakh Unicode';
+	src: url('https://sci.ponomar.net/fonts/MonomakhUnicode.eot');
+	src: url('https://sci.ponomar.net/fonts/MonomakhUnicode.eot?#iefix') format('embedded-opentype'),
+	url('https://sci.ponomar.net/fonts/MonomakhUnicode.woff2') format('woff2'),
+	url('https://sci.ponomar.net/fonts/MonomakhUnicode.woff') format('woff'),
+	url('https://sci.ponomar.net/fonts/MonomakhUnicode.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+/* or use a different font, see: https://sci.ponomar.net/css/fonts.css */
+
+/* Assigns the Old Cyrillic font "Monomakh" for the search box and the wordlist: */
+MainWindow #searchPane #translateLine[currentGroup="Church Slavic"],
+MainWindow #searchPane #wordList[currentGroup="Church Slavic"] {
+	background: white;
+	color: black;
+	font-family: 'Monomakh Unicode';
+	font-size: 20px;
+}

@@ -1,0 +1,31 @@
+Большой церковно-славянский словарь (Chu-Rus)
+Версия 1.5 (ред. 23.09.2021)
+
+Количество заголовков: 38288.
+Количество карточек: 22160.
+https://podolak.net/en/studies/dictionary/lingvo
+
+-------------------------------------------------
+
+Версия 1.3 (ред. 14.06.2016) ―	EdwART
+Версия 1.4 (ред. 07.04.2017) ―	Unicode-conform: Martin Podolak (no extra font needed any more)
+Версия 1.5 (ред. 23.09.2021) ―	Changed language to "Church Slavic" in order to fit into GoldenDict's list of languages.
+								Hereby enabled usage of Old Cyrillic font (please use the attached files "article-style.css" and "qt-style.css").
+								Differing language contents marked in articles with [lang] tags in order to dislay a modern font in Russian contents.
+
+Количество заголовков: 38286.
+Количество карточек: 21885.
+Компиляция в Lingvo EdwART © 2016
+.................................................
+ИСТОЧНИК: http://www.orthodic.org/
+В качестве источника использовались:
+♦ "Полный церковно-славянский словарь (с внесением в него важнейших древне-русских слов и выражений)", Григорий Дьяченко.
+♦ "Церковнославяно-русские паронимы" О. А. Седакова
+♦ "Церковнославянский язык", А.А. Плетнева, А.Г. Кравецкий.
+...........................................................
+Новые версии и другие словари
+Вы можете найти в Нашем Книгохране:
+http://www.dadako.narod.ru/paperpoe.htm
+
+Download location of this DSL dictionary: https://doi.org/10.5281/zenodo.5165145
+For similar dictionaries, see: http://lingvodics.com/dics/view/Church-Slavic

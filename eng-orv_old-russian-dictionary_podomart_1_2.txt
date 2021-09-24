@@ -1,0 +1,17 @@
+Английско-древнерусский словарь
+Old Russian Online - English Meaning Index
+Jonathan Slocum and Todd B. Krause
+University of Texas
+
+words: 2052 / articles: 2052
+Converted to DSL format by podomart.
+
+DSL-Version ― Changelog:
+1.1 / 2014/12/07 ―	updated
+1.2 / 2021/09/23 ―	Changed language to "Church Slavic" in order to fit into GoldenDict's list of languages.
+					Hereby enabled usage of Old Cyrillic font (please use the attached files "article-style.css" and "qt-style.css").
+
+Source: http://www.utexas.edu/cola/centers/lrc/eieol/oruol-EI-X.html
+
+Download location of this DSL dictionary: https://doi.org/10.5281/zenodo.5165145
+For similar dictionaries, see: http://lingvodics.com/dics/view/Church-Slavic

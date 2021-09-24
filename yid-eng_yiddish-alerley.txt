@@ -1,0 +1,25 @@
+     Yiddish-English Dictionary
+"Yiddisher alerley - ייִדישער אַלערלײ"
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A hotchpotch of colloquial Yiddish, slang and proverbs
+Hebrew script / Latin transcription
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Author: pod-o-mart
+Headwords/Definitions: 1132/565
+Version: 1.0 (31.08.2020)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Script:
+The Yiddish headwords are searchable in both Hebrew script and Latin transcription (pronounciation-oriented romanization, YIVO-like, see https://www.yiddishwit.com/transliteration.html).
+This dictionary considers only sources with Hebrew script - No Latin-only sources.
+
+Sources:
+https://yiddishacademy.com/schtick-yiddish-culture/jewish-culture/
+https://yiddishacademy.com/schtick-yiddish-culture/yiddish-slang/
+https://yiddishacademy.com/schtick-yiddish-culture/everyday-yiddish-expressions/
+https://yiddishacademy.com/proverbs/
+https://www.yiddishwit.com/List.html
+https://en.wikiquote.org/wiki/Yiddish_proverbs
+https://de.wikiquote.org/wiki/Jiddische_Sprichwörter
+
+Definitions:
+Some of the definitions are in German.

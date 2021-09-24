@@ -1,0 +1,45 @@
+/*==============================
+ * In order to use an Old Cyrillic font within the articles, place the current file "article-style.css" into the GoldenDict folder:
+ * Linux:	~/.goldendict
+ * Windows:	%APPDATA%\GoldenDict
+ * The font will be retrieved from the internet, no font installation necessary.
+ * If you need the font also outside of GoldenDict, you need to work offline or in case of problems, install the font locally from:
+ * https://sci.ponomar.net/fonts.html#fonts-for-academic-work (Monomakh Unicode font)
+ * Source of the file "article-style.css": https://doi.org/10.5281/zenodo.5165145
+==============================*/
+
+body {
+	font-family: sans; font-size: 12px;
+}
+
+/* Defines the Old Cyrillic font "Monomakh": */
+@font-face {
+    font-family: 'Monomakh Unicode';
+    src: url('https://sci.ponomar.net/fonts/MonomakhUnicode.eot');
+    src: url('https://sci.ponomar.net/fonts/MonomakhUnicode.eot?#iefix') format('embedded-opentype'),
+	url('https://sci.ponomar.net/fonts/MonomakhUnicode.woff2') format('woff2'),
+	url('https://sci.ponomar.net/fonts/MonomakhUnicode.woff') format('woff'),
+	url('https://sci.ponomar.net/fonts/MonomakhUnicode.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/* or use a different font, see: https://sci.ponomar.net/css/fonts.css */
+
+/* Assigns the Old Cyrillic font "Monomakh" to articles with "Church Slavic" as source language: */
+.gdlangfrom-cu {
+	font-family: 'Monomakh Unicode';
+	font-size: 1.6em;
+}
+
+/* Assigns the Old Cyrillic font "Monomakh" to articles with "Church Slavic" as target language: */
+:lang(cu) {
+	font-family: 'Monomakh Unicode';
+	font-size: 1.1em;
+}
+
+/* Reassigns standard font to article contents within DSL [lang] tags */
+span.dsl_lang[lang="ru"],
+span.dsl_lang[lang="en"] {
+	font-family: Tahoma, Verdana, "Lucida Sans Unicode", sans-serif!important;
+	font-size:13px;
+}
